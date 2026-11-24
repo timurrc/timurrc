@@ -18,6 +18,7 @@ TanStack Query · Tailwind CSS · SCSS · Framer Motion
 
 | Проект | О чём | Стек |
 | --- | --- | --- |
+| [Sectio](https://sectio-navy.vercel.app) | Конструктор лендингов: секции, drag and drop, тёмная тема, экспорт готового Vite-проекта, работает без бэкенда | React 19, Vite, TypeScript, Zustand, dnd-kit, Tailwind, Vitest, Playwright |
 | [financial-tracker](https://github.com/timurrc/financial-tracker) | Учёт личных финансов: дашборд, транзакции, аналитика | Next.js 16, TanStack Query, Zustand, Vitest, Playwright |
 | [financial-tracker-api](https://github.com/timurrc/financial-tracker-api) | REST API к нему: JWT, транзакции, месячная сводка | NestJS, Drizzle ORM, PostgreSQL |
 | [Nutrition](https://github.com/timurrc/Nutrition) | Дневник питания и воды, работает офлайн | React 19, Vite, Dexie (IndexedDB) |
